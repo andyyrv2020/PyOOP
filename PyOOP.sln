@@ -11,6 +11,8 @@ Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "CarDealer", "CarDealer\CarD
 EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PokemonTrainer", "PokemonTrainer\PokemonTrainer.pyproj", "{0554FB2C-E12D-469F-B3E8-86F3D89D14DC}"
 EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "GoogleMon", "GoogleMon\GoogleMon.pyproj", "{D6E6F153-2EC6-4A73-B469-49C55CF7FD52}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -25,6 +27,8 @@ Global
 		{B84D98E0-A9BE-4C64-8461-4A7F88543168}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0554FB2C-E12D-469F-B3E8-86F3D89D14DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{0554FB2C-E12D-469F-B3E8-86F3D89D14DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6E6F153-2EC6-4A73-B469-49C55CF7FD52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6E6F153-2EC6-4A73-B469-49C55CF7FD52}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
