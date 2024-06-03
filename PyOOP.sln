@@ -5,6 +5,8 @@ VisualStudioVersion = 17.9.34607.119
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "CarTravelManagment", "CarTravelManagment\CarTravelManagment.pyproj", "{277795C8-26B0-48CF-9A61-2BB17FD63923}"
 EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "RectangleOverlap", "RectangleOverlap\RectangleOverlap.pyproj", "{FB0E71F4-7182-46FA-8EE0-CDC8CEA8B370}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +15,8 @@ Global
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{277795C8-26B0-48CF-9A61-2BB17FD63923}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{277795C8-26B0-48CF-9A61-2BB17FD63923}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB0E71F4-7182-46FA-8EE0-CDC8CEA8B370}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB0E71F4-7182-46FA-8EE0-CDC8CEA8B370}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
